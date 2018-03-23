@@ -1,0 +1,16 @@
+{
+  "name": "twing-perf",
+  "version": "1.0.0",
+  "description": "Twing performance",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eric MORAND",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^5.0.0",
+    "twing": "^0.10.2"
+  }
+}
